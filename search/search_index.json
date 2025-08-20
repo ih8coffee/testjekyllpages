@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Ligma \ud83c\udf89","text":"<p>Using MkDocs default theme.</p> <ul> <li>About</li> </ul>"},{"location":"about/","title":"About","text":"<p>This is an example about page!</p>"}]}
