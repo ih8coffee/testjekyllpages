@@ -1,5 +1,5 @@
-# Welcome to My Fancy Site 🎉
+# Ligma 🎉
 
-This site is built with MkDocs + Material theme.
+Using MkDocs default theme.
 
 - [About](about.md)
